@@ -1,0 +1,21 @@
+html{
+    background-color: blanchedalmond;
+}
+p{
+    font-size:20px;
+    padding: 2px 10px;
+    width:200px;
+    height: 24px;
+    margin: 25px auto;
+    border: groove thin;
+    background-color: rgba(128, 255, 212, 0.3);
+}
+.first{
+    text-align: left;
+}
+.second{
+    text-align: center;
+}
+.third{
+    text-align: right;
+}

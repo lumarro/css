@@ -1,0 +1,6 @@
+input:out-of-range {
+    background-color: rgb(212, 50, 50);
+}
+input:in-range {
+    background-color: rgb(68, 212, 55);
+}

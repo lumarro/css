@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(255, 130, 130)
+}
+h1{
+    color: red;
+}
+.cambioColor:hover{
+    color:blue;
+}
+p{
+    column-count: 3;
+    column-gap: 40px;
+    column-rule-style: groove;
+    column-rule-width: 2px;
+    column-rule-color: red;
+}
+.cambiocolor:hover{
+    color: blue;
+    background-color: orange;
+}

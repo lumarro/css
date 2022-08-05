@@ -1,0 +1,51 @@
+/* 1 */ *{
+    color:aqua;
+}
+/* 2 */ p{
+    color:blue;
+}
+/* 3 */ #title-1{
+    color:black;
+}
+/* 4 */ .bg-yellow{
+    background-color:yellow;
+}
+/* 5 */ [id]{
+    color:grey;
+}
+/* 6 */ [id="title-1"]{
+    color:red;
+}
+/* 7 */ [href="https://www.yahoo.com"]{
+    color:grey;
+}
+/* 8 */ [class^="title"]{
+    color:orange;
+}
+/* 9 */ [href$=".com"]{
+    color:cornflowerblue;
+}
+/* 10 */ [class*="title"]{
+    color:brown;
+}
+/* 11 */ [href*="127"]{
+    color:blueviolet;
+}
+/* 12 */ [href^="http"]{
+    color:rgb(247, 0, 255);
+}
+/* 13 */ a,p,h1{
+    color:black;
+}
+/* 14 */ main p{
+    color:red;
+}
+/* 15 */ h1 + *{
+    color:blue;
+}
+/* 16 */ h1 ~ *{
+    color:green;
+}
+/* 17 */ main > *{
+    color:yellow;
+}

@@ -1,0 +1,7 @@
+body{
+    padding: 100px 50px;
+    margin:40px;
+    border-color:green blue red black;
+    border-width: thick;
+    border-style: dotted dashed solid double;
+}
