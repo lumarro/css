@@ -1,15 +1,34 @@
-table, td{
-    border: solid 2px black;
+body{
+    background-color: aliceblue;
+}
+table{
+    width: 470px;
+    padding-top:10px;
+    text-align: center;
+    border: solid 4px black;
     background-color:bisque;
-    border-radius:25px;
-    -webkit-border-radius:25px;
-    -moz-border-radius:25px;
-    -ms-border-radius:25px;
-    -o-border-radius:25px;
+    border-top-left-radius:25px;
+    -webkit-border-top-left-radius:25px;
+    -moz-border-top-left-radius:25px;
+    -ms-border-top-left-radius:25px;
+    -o-border-top-left-radius:25px;
+    border-top-right-radius:25px;
+    -webkit-border-top-right-radius:25px;
+    -moz-border-top-right-radius:25px;
+    -ms-border-top-right-radius:25px;
+    -o-border-top-right-radius:25px;
 }
-caption{
-    background-color: rgba(44, 188, 255, 0.9);
+td{
+    border-left: solid 1px black;
+    border-bottom: solid 2px black;
 }
-.pietabla{
+#título{
     background-color: rgba(44, 188, 255, 0.9);
+    font-size: 20px;
+    font-weight: bold;
+}
+#pie{
+    background-color: rgba(44, 188, 255, 0.9);
+    border: none;
+    font-weight: bold;
 }

@@ -16,15 +16,15 @@
 |Level 13|bento ~ pickle|
 |Level 14|plate > apple|
 |Level 15|orange:first-child|
-|Level 16|plate pickle,apple:only-child|
-|Level 17|apple,pickle:last-child|
+|Level 16|plate :only-child|
+|Level 17|.small:last-child|
 |Level 18|plate:nth-child(3)|
 |Level 19|bento:nth-last-child(3)|
 |Level 20|apple:first-of-type|
 |Level 21|plate:nth-of-type(even)|
 |Level 22|plate:nth-of-type(2n+3)|
-|Level 23|plate apple:only-of-type|
-|Level 24|orange:last-of-type, apple:last-of-type|
+|Level 23|.small:only-of-type|
+|Level 24|.small:last-of-type|
 |Level 25|bento:empty|
 |Level 26|apple:not(.small)|
 |Level 27|[for]|

@@ -1,0 +1,40 @@
+.centro{
+    width:200px;
+    height: 200px;
+    background-color: red;
+    border: 2px solid black;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+[class^="num"]{
+    text-align: center;
+    width: 20px;
+    border-radius: 30px;
+    border: 2px solid black;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    background-color: greenyellow;
+}
+.num-1{
+    position:absolute;
+    top:10px;
+    left:10px;
+}
+.num-2{
+    position:absolute;
+    top:10px;
+    left:210px;
+}
+.num-3{
+    position:absolute;
+    top:210px;
+    left:10px;
+}
+.num-4{
+    position:absolute;
+    top:210px;
+    left:210px;
+}

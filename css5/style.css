@@ -25,7 +25,7 @@
 /* 9 */ [href$=".com"]{
     color:cornflowerblue;
 }
-/* 10 */ [class*="title"]{
+/* 10 */ [class|="title"]{
     color:brown;
 }
 /* 11 */ [href*="127"]{
