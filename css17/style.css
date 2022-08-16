@@ -1,0 +1,27 @@
+/*  Con mi resolución se ve bien en el ordenador,
+aun no he llegado a las unidades de CSS y trabajo con pixels*/
+header {
+    height: 150px;
+    background-color:#fe0000;
+}
+nav {
+    height: 50px;
+    background-color: #007fff;
+}
+section {
+    height:750px;
+    width:1300px;
+    background-color: #fec6c5;
+    float:left;
+}
+aside {
+    height:750px;
+    width: 550px;
+    background-color: #fe80fe;
+    float:right;
+}
+footer{
+    height:50px;
+    background-color: #80ff00;
+    clear:both;
+}
