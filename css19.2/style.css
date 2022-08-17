@@ -1,0 +1,91 @@
+@media (max-width: 768px) {
+    .header{
+        height: 12vmin;
+        width: 99%;
+        background-color: orange;
+        margin:0.5%;
+    }
+    main{
+        height:20vmin;
+        width:99%;
+        background-color: yellow;
+        clear: both;
+        margin:0.5%;
+    }
+    .article{
+        height:25vmin;
+        width:99%;
+        background-color: blue;
+        margin:0.5%;
+    }
+    .foot{
+        height:12vmin;
+        width:99%;
+        background-color: silver;
+        margin:0.5%
+    }
+}
+@media (max-width:1024px) {
+    .header{
+        height: 12vmin;
+        width: 99%;
+        background-color: orange;
+        margin:0.5%;
+    }
+    main{
+        height:42vmin;
+        width:99%;
+        background-color: yellow;
+        clear: both;
+        margin:0.5%;
+    }
+    .article{
+        height:22vmin;
+        width:99%;
+        background-color: blue;
+        margin:0.5%;
+    }
+    .foot{
+        height:18vmin;
+        width:49%;
+        background-color: silver;
+        margin:0.5%
+    }
+    #foot-1,#foot-2,#foot-4{
+        float: left;
+    }
+    #foot-3{
+        clear: both;
+        float:left;
+    }
+}
+@media (min-width: 1024px) {
+    .header{
+        height: 12vmin;
+        width: 49%;
+        background-color: orange;
+        margin:0.5%;
+        float:left;
+    }
+    main{
+        height:42vmin;
+        width:99%;
+        background-color: yellow;
+        clear: both;
+        margin:0.5%;
+    }
+    .article{
+        height:22vmin;
+        width:32.33333%;
+        background-color: blue;
+        float:left;
+        margin:0.5%;
+    }
+    .foot{
+        height:18vmin;
+        width:24%;
+        background-color: silver;
+        float:left;
+        margin:0.5%
+    }
+}
