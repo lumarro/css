@@ -1,11 +1,11 @@
 div{
-    width: 200px;
-    height: 200px;
-    border-radius: 200px;
-    -webkit-border-radius: 200px;
-    -moz-border-radius: 200px;
-    -ms-border-radius: 200px;
-    -o-border-radius: 200px;
+    width: 20.85vmin;
+    height: 20.85vmin;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
 }
 [class^="rojo"]{
     background-color: rgb(255, 0, 0);
@@ -27,24 +27,24 @@ div{
 }
 
 h2{
-    font-size: 35px;
+    font-size: 3.5vmin;
     font-style: italic;
 }
 #título-1{
-    width: 260px;
+    width: 26vmin;
     margin-left:auto;
     margin-right: auto;
 }
 #título-2{
-    width: 295px;
+    width: 29.5vmin;
     margin-left:auto;
     margin-right: auto;
     clear: both;
 }
 
 header{
-    width: 650px;
-    height: 200px;
+    width: 67.8vmin;
+    height: 20.85vmin;
     margin-left:auto;
     margin-right:auto;
 }
@@ -52,24 +52,24 @@ header{
     float:left;
 }
 .rojo-1, .verde-1{
-    margin-right: 25px;
+    margin-right: 2.6vmin;
 }
 
 main{
-    width: 700px;
-    height: 600px;
+    width: 72.4vmin;
+    height: 65.6vmin;
     margin-left:auto;
     margin-right:auto;
 }
 .rojo-2, .azul-2, .violeta{
     float:left;
-    margin-bottom:15px;
+    margin-bottom:1.53vmin;
 }
 p{
     font-weight: bold;
-    font-size:30px;
+    font-size:3.1vmin;
     float:left;
-    margin:90px 15px 0px;
+    margin:9.3vmin 1.55vmin 0vmin;
 }
 
 .azul-3{
@@ -77,7 +77,7 @@ p{
 }
 .azul-3, .verde-2, .cian{
     float:left;
-    margin-bottom:15px;
+    margin-bottom:1.53vmin;
 }
 
 .verde-3{
